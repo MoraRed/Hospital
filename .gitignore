@@ -1,9 +1,8 @@
 *.pyc
 __pycache__/
-db.sqlite3
 media/
 static/
 myenv/
 *.pyo
 *.swp
-.DS_Store
+.DS_Store 
